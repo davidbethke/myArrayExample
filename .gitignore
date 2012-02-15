@@ -1,0 +1,13 @@
+*.pch
+*.log
+*.tlog
+*.exe
+*.obj
+
+*.dll
+*.idb
+*.last*
+*.exe*
+*.pdb
+*.rc
+*.vc*
